@@ -1,0 +1,4 @@
+.image {
+  max-width: 1600px;
+  max-height: 1200px;
+}
